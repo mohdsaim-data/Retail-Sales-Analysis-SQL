@@ -66,18 +66,6 @@ The dataset contains retail transaction information with the following columns:
 
 ---
 
-# 🗂️ Project Structure
-
-```text
-Retail-Sales-Analysis-SQL/
-│
-├── Retail_Sales_Dataset.csv
-├── Retail_Sales_Analysis.sql
-└── README.md
-```
-
----
-
 # 🧮 Important Business Formulas
 
 ## 1. Total Sales
@@ -535,19 +523,3 @@ Retail-Sales-Analysis-SQL
 This project demonstrates how SQL can be used to transform raw retail transaction data into meaningful business insights.
 
 Through data exploration and SQL analysis, the project answers questions related to customer behavior, category performance, high-value transactions, monthly sales trends, and customer purchasing patterns.
-
-This project is a practical demonstration of fundamental SQL skills required for a **Data Analyst** role.
-
----
-
-## ⭐ If you found this project useful
-
-Give the repository a **star ⭐** and feel free to explore or improve the analysis.
-
----
-
-### 👩‍💻 Author
-
-**Farha Tabassum**
-
-📊 Aspiring Data Analyst | SQL | Data Analysis | Learning by Building Projects
