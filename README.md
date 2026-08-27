@@ -4,8 +4,6 @@
 
 This project focuses on analyzing retail sales data using **SQL**. The goal is to explore the dataset, clean missing values, and answer important business questions related to sales, customers, product categories, and purchasing behavior.
 
-The project demonstrates practical SQL skills commonly used by Data Analysts, including:
-
 - Data Exploration
 - Data Cleaning
 - Aggregate Functions
