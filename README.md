@@ -450,59 +450,6 @@ This analysis helps answer important business questions such as:
 - How many customers purchase from each category?
 - During which time of day are most orders placed?
 
----
-
-# 🚀 How to Run This Project
-
-## Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Retail-Sales-Analysis-SQL.git
-```
-
-## Step 2: Open Your SQL Database Tool
-
-You can use:
-
-- PostgreSQL
-- pgAdmin
-- DBeaver
-- MySQL Workbench with syntax adjustments
-
-## Step 3: Import the Dataset
-
-Import:
-
-```text
-Retail_Sales_Dataset.csv
-```
-
-into your database table.
-
-## Step 4: Run the SQL File
-
-Execute:
-
-```text
-Retail_Sales_Analysis.sql
-```
-
-to perform the analysis.
-
----
-
-# 📁 Repository Files
-
-```text
-Retail-Sales-Analysis-SQL
-│
-├── 📄 Retail_Sales_Dataset.csv
-├── 🗄️ Retail_Sales_Analysis.sql
-└── 📝 README.md
-```
-
----
-
 # 🎓 Skills Demonstrated
 
 - SQL Data Analysis
@@ -521,5 +468,4 @@ Retail-Sales-Analysis-SQL
 # 📌 Conclusion
 
 This project demonstrates how SQL can be used to transform raw retail transaction data into meaningful business insights.
-
 Through data exploration and SQL analysis, the project answers questions related to customer behavior, category performance, high-value transactions, monthly sales trends, and customer purchasing patterns.
