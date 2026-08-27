@@ -38,7 +38,7 @@ The main objectives of this project are:
 # 🛠️ Tools & Technologies
 
 - SQL
-- PostgreSQL / SQL-compatible database
+- PostgreSQL
 - GitHub
 - CSV Dataset
 
